@@ -1,0 +1,15 @@
+C:\Users\Балнур\source\repos\ZadanieWPF1\obj\Debug\ZadanieWPF1.csprojAssemblyReference.cache
+C:\Users\Балнур\source\repos\ZadanieWPF1\obj\Debug\MainWindow.g.cs
+C:\Users\Балнур\source\repos\ZadanieWPF1\obj\Debug\App.g.cs
+C:\Users\Балнур\source\repos\ZadanieWPF1\obj\Debug\ZadanieWPF1_MarkupCompile.cache
+C:\Users\Балнур\source\repos\ZadanieWPF1\obj\Debug\ZadanieWPF1_MarkupCompile.lref
+C:\Users\Балнур\source\repos\ZadanieWPF1\bin\Debug\ZadanieWPF1.exe.config
+C:\Users\Балнур\source\repos\ZadanieWPF1\bin\Debug\ZadanieWPF1.exe
+C:\Users\Балнур\source\repos\ZadanieWPF1\bin\Debug\ZadanieWPF1.pdb
+C:\Users\Балнур\source\repos\ZadanieWPF1\obj\Debug\MainWindow.baml
+C:\Users\Балнур\source\repos\ZadanieWPF1\obj\Debug\ZadanieWPF1.g.resources
+C:\Users\Балнур\source\repos\ZadanieWPF1\obj\Debug\ZadanieWPF1.Properties.Resources.resources
+C:\Users\Балнур\source\repos\ZadanieWPF1\obj\Debug\ZadanieWPF1.csproj.GenerateResource.cache
+C:\Users\Балнур\source\repos\ZadanieWPF1\obj\Debug\ZadanieWPF1.csproj.CoreCompileInputs.cache
+C:\Users\Балнур\source\repos\ZadanieWPF1\obj\Debug\ZadanieWPF1.exe
+C:\Users\Балнур\source\repos\ZadanieWPF1\obj\Debug\ZadanieWPF1.pdb
